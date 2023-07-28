@@ -1,6 +1,8 @@
 # Sorting Algorithms and Binary Search Trees
 
 This project demonstrates the implementation of various sorting algorithms such as Insertion Sort, Selection Sort, Merge Sort, and the creation of Binary Search Trees.
+<hr><br>
+<img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif"><br>
 
 ## Sorting Algorithms
 
@@ -15,7 +17,9 @@ The project includes three main sorting algorithms:
 ## Binary Search Tree
 
 A Binary Search Tree (BST) is a tree in which all nodes adhere to a specific property: the left child is less than the parent node, and the right child is greater than the parent node. The project includes code that builds a binary search tree from a provided list of values.
-
+<br><br>
+<img src='https://media.giphy.com/media/dxP9yzCvWre2XLoPfx/giphy.gif'>
+<br>
 ## Instructions to Run
 
 This project can be run by any Python3 interpreter. To execute it, clone the repository, navigate to the repository in your terminal, and run the following command:
@@ -36,6 +40,9 @@ To install Graphviz, use the following command:
 pip install graphviz
 ```
 
-## Contribute
+## See you!
+See you in the next projects!
+<br><br>
+<img src='https://media.giphy.com/media/YZS5QwgCRcnVLR5w1b/giphy.gif'>
 
-Contributions are always welcome! Please read the contribution guidelines before making any changes or additions.
+
